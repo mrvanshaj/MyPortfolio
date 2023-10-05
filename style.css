@@ -299,11 +299,6 @@ a {
   text-align: center;
 }
 #contact-box {
-  /* background: red; */
-  /* display: inline; */
-  /* text-align: center; */
-}
-#contact-box {
   height: 500px;
   /* width: 40%; */
   display: flex;
